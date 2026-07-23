@@ -1,7 +1,7 @@
 ## Hello
 
 I have experience in applications and systems:
-  * Government systems of records
+  * Government systems of record
   * Messaging systems
   * Messaging terminals
   * Auditing & complaince
@@ -11,6 +11,7 @@ Dev/Sec/Ops Lifecycle:
   * Podman (rootful and rootless)
   * Gitlab CI
   * OpenTelemetry
+  * Building pipelines and Devops infra from zero
 
 Data & Messaging:
   * MSSQL & PostgreSQL
@@ -18,6 +19,9 @@ Data & Messaging:
   * RabbitMQ
   * Interested in event sourcing & more excuses to use SQLite
 
+Languages:
+  * Java
+  * Go
 <!--
 **CrispySteak/CrispySteak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
